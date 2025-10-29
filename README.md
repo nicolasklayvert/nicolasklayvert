@@ -2,11 +2,11 @@
 
 Sou um estudante e entusiasta de tecnologia, sempre buscando aprender coisas novas e me desenvolver na área de programação.
 
-- 🌱 Atualmente estou aprendendo... **[Coloque aqui o que você estuda, ex: .NET, Python, Django]**
-- 🔭 Estou focado nos meus estudos no bootcamp da **[Nome do Bootcamp, ex: DIO]**.
-- 🤔 Procuro ajuda para... **[Algum desafio ou tecnologia que você quer dominar]**
-- 💬 Pergunte-me sobre... **[Assuntos que você gosta]**
-- 📫 Como me encontrar: **[Coloque o link do seu LinkedIn aqui]**
+- 🌱 Atualmente estou aprendendo... **Python com Django e também C# com .NET**
+- 🔭 Estou focado nos meus estudos no bootcamp da **DIO - Formação .NET Developer**
+- 🤔 Procuro ajuda para... **Entender melhor os conceitos de microsserviços**
+- 💬 Pergunte-me sobre... **Qualquer coisa! Gosto de conversar sobre tecnologia.**
+- 📫 Como me encontrar: **https://www.linkedin.com/in/nicolas-klayvert-b41927324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeNrdGTvwT1KSen40YRqpDg%3D%3D**
 
 ---
 
