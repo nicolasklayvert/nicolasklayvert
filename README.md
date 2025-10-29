@@ -12,7 +12,7 @@ Sou um estudante e entusiasta de tecnologia, sempre buscando aprender coisas nov
 
 ### Minhas Ferramentas e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,django,dotnet,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flutter,cs,git,github,vscode" />
 
 ---
 
