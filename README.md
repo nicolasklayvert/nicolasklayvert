@@ -39,7 +39,7 @@
 
 <p>Sinta-se à vontade para entrar em contato comigo:</p>
 
-<a href="linkedin.com/in/nicolas-klayvert-b41927324" target="_blank">
+<a href="https://www.linkedin.com/in/nicolas-klayvert-b41927324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuCgnBtEHRe%2BojEOPpwJgGw%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
