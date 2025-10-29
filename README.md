@@ -1,24 +1,48 @@
-### Olá, eu sou o Nicolas! 👋
+### 👋 Olá, eu sou o Nicolas!
 
-Sou um estudante e entusiasta de tecnologia, sempre buscando aprender coisas novas e me desenvolver na área de programação.
+<p>Sou um estudante e entusiasta de tecnologia, sempre buscando aprender coisas novas e me desenvolver na área de programação. Atualmente estou focado em C# com .NET e Python!</p>
 
-- 🌱 Atualmente estou aprendendo... **Python com Django e também C# com .NET**
-- 🔭 Estou focado nos meus estudos no bootcamp da **DIO - Formação .NET Developer**
-- 🤔 Procuro ajuda para... **Entender melhor os conceitos de microsserviços**
-- 💬 Pergunte-me sobre... **Qualquer coisa! Gosto de conversar sobre tecnologia.**
-- 📫 Como me encontrar: **https://www.linkedin.com/in/nicolas-klayvert-b41927324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeNrdGTvwT1KSen40YRqpDg%3D%3D**
+- 🌱 Estou aprendendo **Python, C# com .NET, e Flutter**.
+- 🔭 Focado no bootcamp **Formação .NET Developer** da DIO.
+- 🤔 Buscando ajuda para entender melhor os conceitos de microsserviços.
 
 ---
 
-### Minhas Ferramentas e Tecnologias
+### 🛠️ Minhas Ferramentas e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,flutter,cs,dotnet,git,github,vscode" />
+<p>Aqui estão algumas das tecnologias com as quais estou trabalhando:</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src_commented="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
+
+<p>Ei, essa parte pode demorar algumas horas para aparecer depois que você cria o perfil, ok? É normal! O do seu colega aparece porque já tem mais tempo.</p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula" />
 </p>
+
+---
+
+### 📬 Vamos nos Conectar!
+
+<p>Sinta-se à vontade para entrar em contato comigo:</p>
+
+<a href="https://www.linkedin.com/in/nicolas-klayvert-4a9232247" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nicolaskyny@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
