@@ -26,10 +26,8 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p>Ei, essa parte pode demorar algumas horas para aparecer depois que você cria o perfil, ok? É normal! O do seu colega aparece porque já tem mais tempo.</p>
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula" />
 </p>
 
