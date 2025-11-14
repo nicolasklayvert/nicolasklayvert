@@ -2,9 +2,8 @@
 
 <p>Sou um estudante e entusiasta de tecnologia, sempre buscando aprender coisas novas e me desenvolver na área de programação. Atualmente estou focado em C# com .NET e Python!</p>
 
-- 🌱 Estou aprendendo **Python, C# com .NET, e Flutter**.
+- 🌱 Estou aprendendo **Flutter, C# com .NET, e Flutter**.
 - 🔭 Focado no bootcamp **Formação .NET Developer** da DIO.
-- 🤔 Buscando ajuda para entender melhor os conceitos de microsserviços.
 
 ---
 
