@@ -31,9 +31,10 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  [<img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula)
-  [<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula&size_weight=0&count_weight=1" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula)
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
