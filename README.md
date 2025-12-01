@@ -31,8 +31,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula&cache_seconds=1" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula&cache_seconds=1" />
+  <img height="150" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/?username=nicolasklayvert&show_icons=true&theme=dracula" />
+  <img height="150" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula" />
 </p>
 
 ---
