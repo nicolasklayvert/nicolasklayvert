@@ -30,10 +30,12 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasklayvert&show_icons=true&theme=dracula" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasklayvert&layout=compact&theme=dracula" />
-</p>
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasklayvert&theme=dracula)
+
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasklayvert&theme=dracula)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasklayvert&theme=dracula)
+
 
 ---
 
