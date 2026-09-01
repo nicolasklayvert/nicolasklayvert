@@ -6,7 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 **Desenvolvimento de Software · Qualidade de Software**
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-klayvert/) · [Email](mailto:nicolaskyny@gmail.com)
 
 </div>
 
